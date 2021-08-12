@@ -1,0 +1,1 @@
+web: gunicorn DevCats.wsgi --log-file -
